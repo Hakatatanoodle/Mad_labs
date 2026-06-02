@@ -1,4 +1,4 @@
-One day, a <adjective> <animal> named <name> decided to enter the world-famous <event> competition in <place>.
+One day, a <<adjective>> <<animal>> named <name> decided to enter the world-famous <event> competition in <place>.
 
 Everyone laughed because <name> was wearing a <color> <clothing_item> and carrying a giant <object>. But <name> didn’t care.
 
